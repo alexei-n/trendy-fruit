@@ -6,8 +6,34 @@
 
 html {
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.water {
+font-family: "Rammetto One", cursive;
+
+}
+
+.star {
+font-family: "Gravitas One", cursive;
+}
+
+.pers {
+font-family: "Comfortaa", cursive;
+}
+
+.melon {
+  background-color: #e97065;
+}
+
+.fruit {
+  background-color: #fbd25e;
+}
+
+.simmon {
+  background-color: #e86033;
 }
